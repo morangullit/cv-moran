@@ -1,0 +1,228 @@
+body{
+    background-color: #f5f7fa;
+    font-family: 'Montserrat', 'Times New Roman', Times, serif;
+}
+
+.id-descripcion-profesion{
+    color: #000000;
+    font-weight: 700px;
+    font-size: 14px;
+
+}
+
+.id-nombre{
+    color: #0B0A0A;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 55px;
+    margin-top: 20px;
+    margin-bottom: 25px;
+
+}
+
+.id-titulo-principal{
+
+    color: #000000;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 27px;
+    margin-top: 45px;
+}
+
+.id-descripcion{
+    width: 400px;
+    height: 230px;
+    left: 498px;
+    top: 142px;
+    margin-bottom: 40px;
+}
+
+
+.id-principal{
+    margin: 40px auto;
+    width: 1200px;
+    display: flex;
+    flex-direction: row-reverse;
+    background: #E5E5E5;
+   
+    
+
+}
+
+.id-descripcion{
+    font-size: 14px;
+    font-weight: 400px;
+    line-height: 24px;
+}
+
+.id-texto-naranja{
+    color: #FB6D3A;
+
+}
+
+li{
+    line-height: 24px;
+}
+
+.id-lateral{
+    background-color: #1E2939;
+    padding: 40px 0;
+}
+
+.id-titulo-lateral{
+    color: white;
+    font-weight: 700px;
+    font-size: 22px;
+    line-height: 27px;
+    margin-top: 50px;
+}
+
+.id-contacto, .id-tecnicas, .id-blandas{
+    margin-left: 40px;
+
+}
+
+.id-telefeno{
+    color: white;
+    font-style: normal;
+    font-weight: 700px;
+    font-size: 14px;
+    line-height: 24px;
+    margin-right: 5px;
+
+}
+
+.id-email{
+    color: white;
+    font-style: normal;
+    font-weight: 700px;
+    font-size: 14px;
+    line-height: 24px;
+    margin-right: 5px;
+
+}
+
+.id-cont{
+    color: gray;
+    font-style: normal;
+    font-weight: 700px;
+    font-size: 14px;
+    line-height: 24px;
+    margin-right: 5px;
+
+}
+
+.id-lista-lateral{
+    padding-left: 19px;
+}
+
+.id-lista-lateral > li{
+    color: #FB6D3A;
+
+}
+
+.id-letras{
+    color: white;
+    font-style: normal;
+    font-weight: 400px;
+    font-size: 14px;
+    line-height: 24px;
+}
+
+.id-descripcion-general{
+    color: #595959;
+    width: 400px;
+    font-style: normal;
+    font-weight: 400px;
+    font-size: 14px;
+    line-height: 24px;
+    
+}
+
+.id-informacion{
+    padding: 100px 88px;
+    text-align: justify;
+    background: #FFFFFF;
+    box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
+}
+
+.id-lista{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+    padding: 18px;
+}
+
+.id-link{
+    color: #595959;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.id-puntos{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    letter-spacing: 2px;
+}
+
+.id-puesto-empresa{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    margin-top: 15px;
+    margin-bottom: 11px;
+}
+
+.id-periodo-empresa{
+    color: #868686;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+   
+}
+
+.id-lista-experiencia{
+    color: #595959;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    padding-left: 18px;
+
+}
+
+.id-texto-link{
+    color: #595959;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.id-barra{
+    color: #000000;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+}
+
+
